@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="36.9694mm" height="18.9721mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3206.86 1645.71"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#0942AD;stroke-width:15.3;stroke-miterlimit:22.9256}
+    .fil1 {fill:#0942AD}
+    .fil3 {fill:#C7E1F8}
+    .fil2 {fill:#F0FAFD}
+    .fil0 {fill:#F2F9FF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2446426385040">
+   <path class="fil0 str0" d="M107.54 767.63c-31.56,27.04 -69.21,547.27 64.13,655.2 957.73,-2 1915.46,-4.01 2873.19,-6 104.15,-49.68 84.04,-386.85 61.92,-456.01 -77.57,-69.76 -126.64,-111.88 -269.36,-156l-523.25 -54.01 -409.66 -743.14 -1063.19 3.71 -331.89 751.42 -401.89 4.82z"/>
+   <ellipse class="fil1" cx="727.64" cy="1420.05" rx="232.88" ry="225.66"/>
+   <ellipse class="fil2" cx="723.06" cy="1421.93" rx="125.07" ry="121.19"/>
+   <ellipse class="fil1" cx="2312.68" cy="1418.35" rx="232.88" ry="225.66"/>
+   <ellipse class="fil2" cx="2308.09" cy="1420.24" rx="125.07" ry="121.19"/>
+   <polygon class="fil1" points="883.17,130.29 604.62,765.81 1351.52,767.91 1351.52,132.32 "/>
+   <polygon class="fil1" points="1478.04,767.04 1479.12,131.16 1884.63,130.25 2188.7,764.48 "/>
+   <rect class="fil3" x="-0" y="1183.46" width="185.9" height="129.1"/>
+   <rect class="fil3" x="41.83" y="1006.32" width="145.62" height="108.08"/>
+   <rect class="fil3" x="2797.86" y="1205.75" width="408.99" height="114.09"/>
+   <polygon class="fil3" points="3059.04,1119.98 3034.8,995.63 2708.01,995.6 2780.12,1120.02 "/>
+   <rect class="fil3" x="1404.45" y="720.53" width="14.05" height="551.83"/>
+   <rect class="fil3" x="1146.65" y="902.2" width="117.18" height="45.42"/>
+   <rect class="fil3" x="1568.51" y="913.55" width="119.52" height="29.53"/>
+  </g>
+ </g>
+</svg>
